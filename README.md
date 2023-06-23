@@ -1,9 +1,7 @@
-# Links
+# Hello! 👋
 
-Some of the repos in this account are set to private, including the repo that this README is on.
+Some of the repos on my github account are set to private.
 
-You'll only be able to access this private repo via the current URL.
+You'll be able to access all of my repos (public and private) repos via the links below.
 
-You'll only be able to access the private repos via the links on this README.
-
-All of my repos (private and public) will be listed on this README for convenience. 
+They are listed from most to least recent.
