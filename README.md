@@ -8,4 +8,4 @@ They are listed from most to least recent.
 
 
 ***
-<span style="font-size: 12px;">§: These links point to repos on gitfront generated from my github acct `64bit-polygon`. This is bc you cannot share share private repos on github via a link. gitfront is a service that faciliates that.</span>
+<sub><sup>§: These links point to repos on gitfront generated from my github acct `64bit-polygon`. This is bc you cannot share share private repos on github via a link. gitfront is a service that faciliates that.</sup></sub>
