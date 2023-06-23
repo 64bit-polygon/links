@@ -6,6 +6,8 @@ You'll be able to access all of my github repos (public and private) via the lin
 
 They are listed from most to least recent.
 
+### [Recipe suggestion AI chatbot](https://gitfront.io/r/64bitpolygon/fRZT7g7MQUCc/Chat/)
+
 
 ***
 <sub>* : These links point to repos on gitfront generated from my github acct `64bit-polygon`. This is bc you cannot share share private repos on github via a link. gitfront is a service that faciliates that.</sub>
