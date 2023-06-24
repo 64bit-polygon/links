@@ -10,6 +10,8 @@ They are listed from most to least recent.
 
 This is the FE portion (I was the sole FE dev) of a hack-a-thon winning chatbot project using ChatGPT that I led. Utilizing the WeightWatchers DB, it suggests WW meals and creates full WW recipes on the fly a member can save. It also populates any missing images with DALL-E.
 
+`JS`, `React`, `Node.js`, `SCSS`
+
 # [translate()](https://gitfront.io/r/64bitpolygon/yw624XoeUEDB/translate/)
 
 My client has a website that is present in multiple markets which multiple languages. The translations are available as key value pairs. The task was to build a util that could take in a key and render a react element with the correct translation, markdown, and dynamic text interpolation, among other things.
