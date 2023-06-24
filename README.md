@@ -6,7 +6,11 @@ You'll be able to access all of my github repos (public and private) via the lin
 
 They are listed from most to least recent.
 
-### [Recipe suggestion AI chatbot](https://gitfront.io/r/64bitpolygon/fRZT7g7MQUCc/Chat/)
+# [translate()](https://gitfront.io/r/64bitpolygon/fRZT7g7MQUCc/Chat/)
+
+My client has a website that is present in multiple markets which multiple languages. The translations are available as key value pairs. The task was to build a util that could take in a key and render a react element with the correct translation, markdown, and dynamic text interpolation, among other things.
+
+`JS`, `React`, `Node.js`
 
 
 ***
