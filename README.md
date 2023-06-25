@@ -1,5 +1,7 @@
 # Hello! 👋
 
+The following repos contain some samples of my work.
+
 Some of the repos on my github account are set to private.
 
 You'll be able to access all of my github repos (public and private) via the links below<sup>*</sup>.
@@ -41,6 +43,12 @@ This is a simple descrambler I made as part of a coding assessment for a potenti
 A multipurpose word processor web app. A text is created by starting from a blank page or by using the cut up technique where two sources are split into strips one line long and then shuffled together to create a new text. In doing so, strange and poetic coincidences arise. The doc can be edited, styled, saved, shared, and downloaded. <a href="https://nate-de-la-cruz.dev/cut_ups/" target="_blank">Here's recording</a> of it.
 
 `PHP`, `JS`, `HTML`, `CSS`
+
+# [Fresh links](https://gitfront.io/r/64bitpolygon/Pm3rUJnexE78/cut_ups/)
+
+Fresh links was a cloud-based RSS reader built with WordPress. The user’s posts appeared in a timeline and are stripped free of ads, superfluous HTML, and with their full text. The articles could be automatically deleted after a user set amount of time, listed in the timeline indefinitely, or saved into a separate section. <a href="https://nate-de-la-cruz.dev/cut_ups/" target="_blank">Here's recording</a> of it.
+
+`WordPress`, `PHP`, `JS`, `HTML`, `CSS`
 
 ***
 <sub>* : These links point to repos on gitfront generated from my github acct `64bit-polygon`. This is bc you cannot share share private repos on github via a link. gitfront is a service that faciliates that.</sub>
