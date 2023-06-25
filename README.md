@@ -27,4 +27,4 @@ This is a translations BE microservice. The 3rd party translations platform we u
 ***
 <sub>* : These links point to repos on gitfront generated from my github acct `64bit-polygon`. This is bc you cannot share share private repos on github via a link. gitfront is a service that faciliates that.</sub>
 
-<sub>be assured that across all private repos on here all identifible info has been removed or changed, including but not limited to var names, urls, packages, and ids. these private repos are here for code samples for potential employeers.</sub>
+<sub>Be assured that across all private repos on here all identifible info has been removed or changed, including but not limited to var names, urls, packages, and ids. These private repos are here for code samples for potential employeers.</sub>
