@@ -10,7 +10,7 @@ They are listed from most to least recent.
 
 This is the FE portion (I was the sole FE dev) of a hack-a-thon winning chatbot project using ChatGPT that I led. Utilizing the WeightWatchers DB, it suggests WW meals and creates full WW recipes on the fly a member can save. It also populates any missing images with DALL-E.
 
-`JS`, `React`, `Node.js`, `SCSS`
+`JS`, `React`, `Node.js`, `SCSS`, `Front end`
 
 # [translate()](https://gitfront.io/r/64bitpolygon/yw624XoeUEDB/translate/)
 
@@ -18,5 +18,11 @@ My client has a website that is present in multiple markets which multiple langu
 
 `JS`, `React`, `Node.js`
 
+This is a translations BE microservice. The 3rd party translations platform we use needs the data to be normalized and the fetching requires a lot of boilerplate. As teams across multiple platforms need the translations, this service reduces boilerplate, does the normalizing before it's sent, and keeps the data fresh.
+
+`API`, `BE`, `JS`, `Node.js`
+
 ***
 <sub>* : These links point to repos on gitfront generated from my github acct `64bit-polygon`. This is bc you cannot share share private repos on github via a link. gitfront is a service that faciliates that.</sub>
+
+<sub>be assured that across all private repos on here all identifible info has been removed or changed, including but not limited to var names, urls, packages, and ids. these private repos are here for code samples for potential employeers.</sub>
