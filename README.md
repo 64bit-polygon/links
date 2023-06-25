@@ -30,6 +30,12 @@ A few years ago, I was tasked with building an assessment for a major weight and
 
 `React`, `Redux`, `Front end`, `JS`, `SCSS`
 
+# [descrambler](https://gitfront.io/r/64bitpolygon/dPk2qD9FfArK/descrambler/)
+
+This is a simple descrambler I made as part of a coding assessment for a potential employer several years ago. To descramble the initial message, click "descramble". You can then put any chunk of text into the textarea to create a scrambled message. You can see the live version [here](https://nate-de-la-cruz.dev/descrambler/).
+
+`JS`, `HTML`, `CSS`
+
 ***
 <sub>* : These links point to repos on gitfront generated from my github acct `64bit-polygon`. This is bc you cannot share share private repos on github via a link. gitfront is a service that faciliates that.</sub>
 
