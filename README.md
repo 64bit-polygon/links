@@ -18,6 +18,8 @@ My client has a website that is present in multiple markets which multiple langu
 
 `JS`, `React`, `Node.js`
 
+# [translations_service](https://gitfront.io/r/64bitpolygon/tXAobqD7T9BT/translations_service/)
+
 This is a translations BE microservice. The 3rd party translations platform we use needs the data to be normalized and the fetching requires a lot of boilerplate. As teams across multiple platforms need the translations, this service reduces boilerplate, does the normalizing before it's sent, and keeps the data fresh.
 
 `API`, `BE`, `JS`, `Node.js`
