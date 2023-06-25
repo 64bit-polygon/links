@@ -24,6 +24,12 @@ This is a translations BE microservice. The 3rd party translations platform we u
 
 `API`, `Back end`, `JS`, `Node.js`
 
+# [system_quiz](https://gitfront.io/r/64bitpolygon/hi2J4J1u7tzT/system_quiz/)
+
+A few years ago, I was tasked with building an assessment for a major weight and food tracking app. The assessment would suggest one of three personalized plans to the user and provide onboarding. On top of running on the browser this project was piped into iOS and Android apps via web view so it had to have a native look and feel. This code renders that assessment in react, with their responses being stored in redux.
+
+`React`, `Redux`, `Front end`, `JS`, `SCSS`
+
 ***
 <sub>* : These links point to repos on gitfront generated from my github acct `64bit-polygon`. This is bc you cannot share share private repos on github via a link. gitfront is a service that faciliates that.</sub>
 
