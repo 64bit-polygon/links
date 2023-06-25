@@ -8,7 +8,7 @@ They are listed from most to least recent.
 
 # [recipe suggestion chatbot 🤖💬🥗](https://gitfront.io/r/64bitpolygon/cCX6dt9xwT83/chatbot/)
 
-This is the FE portion (I was the sole FE dev) of a hack-a-thon winning chatbot project using ChatGPT that I led. Utilizing the WeightWatchers DB, it suggests WW meals and creates full WW recipes on the fly a member can save. It also populates any missing images with DALL-E.
+This is the FE portion (I was the sole FE dev) of a hack-a-thon winning chatbot project using ChatGPT that I led. Utilizing the WeightWatchers DB, it suggests WW meals and creates full WW recipes on the fly a member can save. It also populates any missing images with DALL-E. <a href="https://nate-de-la-cruz.dev/chatbot.mp4" target="_blank">Here's recording</a> of it.
 
 `JS`, `React`, `Node.js`, `SCSS`, `Front end`
 
