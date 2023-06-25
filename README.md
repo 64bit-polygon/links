@@ -2,13 +2,13 @@
 
 The following repos contain some samples of my work.
 
-You'll be able to access all of my github repos (public and private) via the links below<sup>*</sup>.
+Since 2018 I've been a software engineer at WeightWatchers. Unfortunately the work I've done there has been closed source and so I can't can't share code samples from them. In lieu of the repos, the first 4 items listed are descriptions of major projects I've been sole or lead engineer on while at WW. If you click into them you'll get a more detailed description of the project.
 
 They are listed from most to least recent.
 
-# [recipe suggestion chatbot 🤖💬🥗](https://gitfront.io/r/64bitpolygon/cCX6dt9xwT83/chatbot/)
+# [recipe suggestion chatbot 🤖💬🥗](https://github.com/64bit-polygon/chat_bot)
 
-This is the FE portion (I was the sole FE dev) of a hack-a-thon winning chatbot project using ChatGPT that I led. Utilizing the WeightWatchers DB, it suggests WW meals and creates full WW recipes on the fly a member can save. It also populates any missing images with DALL-E. <a href="https://nate-de-la-cruz.dev/chatbot.mp4" target="_blank">Here's recording</a> of it.
+In 2023, I led a team in a company-wide hack-a-thon at WeightWatchers that won first place. Utilizing the WeightWatchers DB, it suggested WW recipes based on user input and created full recipes on the fly the user could save. It also populated any missing images in search results with DALL-E. <a href="https://nate-de-la-cruz.dev/chatbot.mp4" target="_blank">Here's recording</a> of it.
 
 `JS`, `React`, `Node.js`, `SCSS`, `Front end`
 
@@ -24,9 +24,9 @@ This is a translations BE microservice. The 3rd party translations platform we u
 
 `API`, `Back end`, `JS`, `Node.js`
 
-# [system_quiz](https://gitfront.io/r/64bitpolygon/hi2J4J1u7tzT/system_quiz/)
+# [program_assessment](https://github.com/64bit-polygon/program_assessment)
 
-A few years ago, I was tasked with building an assessment for a major weight and food tracking app. The assessment would suggest one of three personalized plans to the user and provide onboarding. On top of running on the browser this project was piped into iOS and Android apps via web view so it had to have a native look and feel. This code renders that assessment in react, with their responses being stored in redux.
+A few years ago, I was tasked with building an assessment while at WeightWatchers. The assessment would suggest one of three personalized plans to the user and provide onboarding. On top of running on the browser this project was piped into `iOS` and `Android` apps via web view so it had to have a native look and feel. The assessment was built in react, with their responses being stored in redux.
 
 `React`, `Redux`, `Front end`, `JS`, `SCSS`
 
