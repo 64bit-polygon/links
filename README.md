@@ -22,7 +22,7 @@ My client has a website that is present in multiple markets which multiple langu
 
 This is a translations BE microservice. The 3rd party translations platform we use needs the data to be normalized and the fetching requires a lot of boilerplate. As teams across multiple platforms need the translations, this service reduces boilerplate, does the normalizing before it's sent, and keeps the data fresh.
 
-`API`, `BE`, `JS`, `Node.js`
+`API`, `Back end`, `JS`, `Node.js`
 
 ***
 <sub>* : These links point to repos on gitfront generated from my github acct `64bit-polygon`. This is bc you cannot share share private repos on github via a link. gitfront is a service that faciliates that.</sub>
