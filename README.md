@@ -16,7 +16,7 @@ In 2023, I led a team in a company-wide hack-a-thon at WeightWatchers that won f
 
 # [ApplangaJS()](https://github.com/64bit-polygon/ApplangaJS)
 
-My client has a website that is present in multiple markets which multiple languages. The translations are available as key value pairs. The task was to build a util that could take in a key and render a react element with the correct translation, markdown, and dynamic text interpolation, among other things.
+The web app that build and maintain is present in multiple markets which multiple languages. The translations are available as key value pairs. The task was to build a util that could take in a key and render a react element with the correct translation, markdown, and dynamic text interpolation, among other things.
 
 `JS`, `React`, `Node.js`
 
@@ -51,4 +51,4 @@ Fresh links was a cloud-based RSS reader built with WordPress. The user’s post
 `WordPress`, `PHP`, `JS`, `HTML`, `CSS`
 
 ***
-<sub>Please note after getting married in 2021 my last name changed from Lord => De La Cruz. I created a new github account as my old one (<a href="https://github.com/nate-lord">nate-lord</a>) has my old last name in it.</sub>
+<sub>Please note after getting married in 2021 my last name changed from Lord -> De La Cruz. I created a new github account as my old one (<a href="https://github.com/nate-lord">nate-lord</a>) has my old last name in it.</sub>
