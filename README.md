@@ -4,7 +4,7 @@ The following repos contain some samples of my work.
 
 Since 2018 I've been a software engineer at WeightWatchers. Unfortunately the work I've done there has been closed source and so I can't can't share code samples from them.
 
-In lieu of the code, the first 4 items listed are in-depth descriptions of major projects I've been sole or lead engineer on while at WW. By clicking into them you'll get a more detailed description of each project.
+In lieu of the code, the first 4 items listed are in-depth descriptions of major projects I've been the sole or lead engineer on while at WW. By clicking into them you'll get a more detailed description of each project.
 
 They are listed from most to least recent.
 
@@ -16,7 +16,7 @@ In 2023, I led a team in a company-wide hack-a-thon at WeightWatchers that won f
 
 # [ApplangaJS()](https://github.com/64bit-polygon/ApplangaJS)
 
-The web app that build and maintain is present in multiple markets which multiple languages. The translations are available as key value pairs. The task was to build a util that could take in a key and render a react element with the correct translation, markdown, and dynamic text interpolation, among other things.
+The web app that I build and maintain is present in multiple markets which multiple languages. The translations are available as key value pairs. The task was to build a util that could take in a key and render a react element with the correct translation, markdown, and dynamic text interpolation, among other things.
 
 `JS`, `React`, `Node.js`
 
