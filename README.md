@@ -70,10 +70,20 @@ Here's the [live site](https://texting-app-c16a3.web.app/)
 
 ---
 
-# [recipe suggestion chatbot 🤖💬🥗](https://github.com/64bit-polygon/chat_bot)
+# [Recipe suggestion chatbot 🤖💬🥗](https://github.com/64bit-polygon/links/blob/main/recipe-suggestion-chatbot/README.md)
 
 In 2023, I led a team in a company-wide hack-a-thon at WeightWatchers that won first place. Utilizing the WeightWatchers DB, it suggested WW recipes based on user input and created full recipes on the fly the user could save. It also populated any missing images in search results with DALL-E.
 
 Here's a [screen capture](https://firebasestorage.googleapis.com/v0/b/react-portfolio-944de.appspot.com/o/recipe-suggestion-chatbot.mp4?alt=media&token=944a35c4-bca7-42b7-adff-83d6f947cd22) of it
 
 `ChatGPT`, `DALL-E`, `JS`, `React`, `Node.js`, `SCSS`
+
+---
+
+# [Some older projects](https://github.com/64bit-polygon/older_projects/blob/main/README.md)
+
+A repo that contains some older samples of my work when I first started coding about 9 years ago.
+
+Some of these projects are no longer live.
+
+`PHP`, `WordPress`, `HTML`, `JS`, `SCSS`
