@@ -1,54 +1,79 @@
 # Hello! 👋
 
-The following repos contain some samples of my work.
+My name's Nate and I'm a full stack software engineer mainly working with web technologies. I've been an engineer at start ups, in government institutions, and Fortune 500 companies. My last role was building and maintaining the [web app](https://natedelacruz.com/weightwatchers) for WeightWatchers.
 
-Since 2018 I've been a software engineer at WeightWatchers. Unfortunately the work I've done there has been closed source and so I can't can't share code samples from them.
+Here's a link to my [portfolio](https://natedelacruz.com/) and here's my [resume](https://firebasestorage.googleapis.com/v0/b/react-portfolio-944de.appspot.com/o/Resume%20Nate%20De%20La%20Cruz.pdf?alt=media&token=a0a7d56f-07ac-4835-8729-14d93b5987b7).
 
-In lieu of the code, the first 4 items listed are in-depth descriptions of major projects I've been the sole or lead engineer on while at WW. By clicking into them you'll get a more detailed description of each project.
+The following repos are some samples of my work.
 
-They are listed from most to least recent.
+---
+
+# [Cut ups](https://github.com/64bit-polygon/cut_ups/blob/main/README.md)
+
+Cut ups is a multipurpose word processor web app built with `react`, `recoil`, and `firebase`. The user creates text compositions in one of two ways: they can start from a blank page (the traditional method) or they can use the ‘cut up technique’ (ala William Burroughs) where two sources are folded together to create a new text. The document can be edited, styled, saved, shared, and downloaded.
+
+Here's a [screen capture](https://natedelacruz.com/cut-ups) of it
+
+Here's the live site: [cutups.io](https://cutups.io/)
+
+`React`, `Recoil`, `Firebase`, `.svg animations`, `FE`, `BE`, `web app`
+
+---
+
+# [My portfolio](https://github.com/64bit-polygon/portfolio/blob/main/README.md)
+
+This is my portfolio built with `react`, `recoil`, and `firebase`. It features several thumbnail `.svg` animations to illustrate various projects I've worked on along with screen recording and descriptions. 
+
+Here's the live site: [natedelacruz.com](https://natedelacruz.com/)
+
+`React`, `Recoil`, `Firebase`, `.svg animations`, `FE`, `BE`
+
+---
+
+# [raven-writer](https://github.com/64bit-polygon/raven-writer/blob/main/README.md)
+
+`raven-writer` is a FE utility to allow for easy translations and interpolations for projects using the popular [POEditor](https://poeditor.com/) localization service.
+
+What `raven-writer` does:
+
+- GETs and caches localizations for your project
+- Refreshes those localizations at a given interval
+- Transforms simple markdown in your content into HTML strings
+- Allows for dynamic interpolation of string values into your content
+- Easily gets values by term
+
+Here's the project on `npm`: [`raven-writer`](https://www.npmjs.com/package/raven-writer)
+
+`npm`, `localizations`, `FE`
+
+---
+
+# [raven-rookery](https://github.com/64bit-polygon/raven-rookery/blob/main/README.md)
+
+`raven-rookery` is a backend tool to get localizations from the [POEditor](https://poeditor.com/) localization service. `raven-rookery` gets and stores your localizations in memory, refreshing them at a given interval. It also provides an optional customizable API to get these localizations from whatever endpoint. By using `raven-rookery` one no longer needs to be concerned about throttling, queuing and rate limiting by hitting the POEditor endpoints directly.
+
+Here's the project on `npm`: [`raven-rookery`](https://www.npmjs.com/package/raven-rookery)
+
+`npm`, `localizations`, `BE`, `API`
+
+---
+
+# [iOS texting replica](https://github.com/64bit-polygon/endless_texts/blob/main/README.md)
+
+This is a replica of iOS iMessage UI using only web technologies. I wanted to demonstrate the power of basic web technologies to create an app like experience. The animations are all css and the project is built using react.
+
+Here's a [screen capture](https://natedelacruz.com/texting-ui) of it
+
+Here's the [live site](https://texting-app-c16a3.web.app/)
+
+`React`, `.scss animations`, `FE`
+
+---
 
 # [recipe suggestion chatbot 🤖💬🥗](https://github.com/64bit-polygon/chat_bot)
 
-In 2023, I led a team in a company-wide hack-a-thon at WeightWatchers that won first place. Utilizing the WeightWatchers DB, it suggested WW recipes based on user input and created full recipes on the fly the user could save. It also populated any missing images in search results with DALL-E. <a href="https://nate-de-la-cruz.dev/chatbot.mp4" target="_blank">Here's recording</a> of it.
+In 2023, I led a team in a company-wide hack-a-thon at WeightWatchers that won first place. Utilizing the WeightWatchers DB, it suggested WW recipes based on user input and created full recipes on the fly the user could save. It also populated any missing images in search results with DALL-E.
 
-`JS`, `React`, `Node.js`, `SCSS`, `Front end`
+Here's a [screen capture](https://firebasestorage.googleapis.com/v0/b/react-portfolio-944de.appspot.com/o/recipe-suggestion-chatbot.mp4?alt=media&token=944a35c4-bca7-42b7-adff-83d6f947cd22) of it
 
-# [ApplangaJS()](https://github.com/64bit-polygon/ApplangaJS)
-
-The web app that I build and maintain is present in multiple markets which multiple languages. The translations are available as key value pairs. The task was to build a util that could take in a key and render a react element with the correct translation, markdown, and dynamic text interpolation, among other things.
-
-`JS`, `React`, `Node.js`
-
-# [Applanga Service](https://github.com/64bit-polygon/Applanga-Service)
-
-This is a translations BE microservice. The 3rd party translations platform we use needs the data to be normalized and the fetching requires a lot of boilerplate. As teams across multiple platforms need the translations, this service reduces boilerplate, does the normalizing before it's sent, and keeps the data fresh.
-
-`API`, `Back end`, `JS`, `Node.js`
-
-# [program_assessment](https://github.com/64bit-polygon/program_assessment)
-
-A few years ago, I was tasked with building an assessment while at WeightWatchers. The assessment would suggest one of three personalized plans to the user and provide onboarding. On top of running on the browser this project was piped into `iOS` and `Android` apps via web view so it had to have a native look and feel. The assessment was built in react, with their responses being stored in redux.
-
-`React`, `Redux`, `Front end`, `JS`, `SCSS`
-
-# [descrambler](https://github.com/64bit-polygon/descrambler)
-
-This is a simple descrambler I made as part of a coding assessment for a potential employer several years ago. To descramble the initial message, click "descramble". You can then put any chunk of text into the textarea to create a scrambled message. You can see the live version [here](https://nate-de-la-cruz.dev/descrambler/).
-
-`JS`, `HTML`, `CSS`
-
-# [Cut ups](https://github.com/64bit-polygon/cut_ups)
-
-A multipurpose word processor web app. A text is created by starting from a blank page or by using the cut up technique where two sources are split into strips one line long and then shuffled together to create a new text. In doing so, strange and poetic coincidences arise. The doc can be edited, styled, saved, shared, and downloaded. <a href="https://nate-de-la-cruz.dev/cut_ups/" target="_blank">Here's recording</a> of it.
-
-`PHP`, `JS`, `HTML`, `CSS`
-
-# [Fresh links](https://github.com/64bit-polygon/fresh_links)
-
-Fresh links was a cloud-based RSS reader built with WordPress. The user’s posts appeared in a timeline and are stripped free of ads, superfluous HTML, and with their full text. The articles could be automatically deleted after a user set amount of time, listed in the timeline indefinitely, or saved into a separate section. <a href="https://nate-de-la-cruz.dev/fresh_links/" target="_blank">Here's recording</a> of it.
-
-`WordPress`, `PHP`, `JS`, `HTML`, `CSS`
-
-***
-<sub>Please note after getting married in 2021 my last name changed from Lord -> De La Cruz. I created a new github account as my old one (<a href="https://github.com/nate-lord">nate-lord</a>) has my old last name in it.</sub>
+`ChatGPT`, `DALL-E`, `JS`, `React`, `Node.js`, `SCSS`
