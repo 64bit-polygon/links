@@ -60,7 +60,7 @@ Here's the project on `npm`: [`raven-rookery`](https://www.npmjs.com/package/rav
 
 # [iOS texting replica](https://github.com/64bit-polygon/endless_texts/blob/main/README.md)
 
-This is a replica of iOS iMessage UI using only web technologies. I wanted to demonstrate the power of basic web technologies to create an app like experience. The animations are all css and the project is built using react.
+This is a replica of iOS iMessage UI using only web technologies. I wanted to demonstrate the power of basic web technologies to create an app-like experience. The animations are all css and the project is built using react.
 
 Here's a [screen capture](https://natedelacruz.com/texting-ui) of it
 
